@@ -27,6 +27,9 @@ tests/projectionEstimation.spec.ts
 
 ---To run the test:---
 open the terminal in VScode and run the below script:
-npm run test                                  
+npm run test 
+
+Result:
+Projection estimate is printed to the console
 
 
