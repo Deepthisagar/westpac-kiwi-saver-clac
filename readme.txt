@@ -1,7 +1,7 @@
 ---Prerequistes:
 1. Install VS Code
 2. Install Node JS
-3. Clone the git repo from
+3. Clone the git repo from https://github.com/Deepthisagar/westpac-kiwi-saver-clac/tree/main
 4. Opne the terminal from VS code and type below commands
    a. cd westpac-kiwi-saver-clac
    b. npm Install -- This will install all the depdencies if required
